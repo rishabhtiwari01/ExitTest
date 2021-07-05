@@ -1,0 +1,13 @@
+2021-07-05 17:38:52,247  INFO [main] BaseTest:88 - Setting up local machine
+2021-07-05 17:38:55,191  INFO [main] BaseTest:45 - Setting up chrome browser....
+2021-07-05 17:38:55,203  INFO [main] BaseTest:99 - Fetching Url...
+2021-07-05 17:38:58,056  INFO [main] ExploreSiteMapTest:27 - Test case Started
+2021-07-05 17:38:58,058  INFO [main] ExploreSiteMapTest:28 - TestId: exploreSiteMap_001
+2021-07-05 17:38:58,189  INFO [main] ExploreSiteMapTest:30 - Click on sitemap
+2021-07-05 17:39:03,085  INFO [main] ExploreSiteMapTest:34 - Select redbus with RTC
+2021-07-05 17:39:03,087  INFO [main] ExploreSiteMapTest:35 - Click on book now
+2021-07-05 17:39:22,115  INFO [main] ExploreSiteMapTest:37 - Click on view seats
+2021-07-05 17:39:22,115  INFO [main] ExploreSiteMapTest:38 - click on hide seat
+2021-07-05 17:39:26,478  INFO [main] ExploreSiteMapTest:40 - View bus fare
+2021-07-05 17:39:26,630  INFO [main] ExploreSiteMapTest:43 - exploreSiteMap_001 test case Passed!!
+2021-07-05 17:39:26,651  INFO [main] BaseTest:105 - Close browser..

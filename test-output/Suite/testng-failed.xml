@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]" parallel="classes">
+  <test thread-count="5" name="Test(failed)" parallel="classes">
+    <classes>
+      <class name="tests.HomePageTest">
+        <methods>
+          <include name="swapCities_003" invocation-numbers="0"/>
+          <include name="closeBrowser"/>
+          <include name="inValidSearch_002" invocation-numbers="0"/>
+          <include name="validSearch_001" invocation-numbers="0"/>
+          <include name="endReport"/>
+          <include name="openBrowser"/>
+          <include name="attachScreenshot"/>
+          <include name="modifyBusSearch_006" invocation-numbers="0"/>
+          <include name="intializeWebdriver"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- tests.HomePageTest -->
+      <class name="tests.BusHireTest">
+        <methods>
+          <include name="outStation_001" invocation-numbers="0"/>
+          <include name="closeBrowser"/>
+          <include name="busHireAirport_003" invocation-numbers="0"/>
+          <include name="endReport"/>
+          <include name="openBrowser"/>
+          <include name="attachScreenshot"/>
+          <include name="intializeWebdriver"/>
+          <include name="setExtent"/>
+          <include name="busHireLocal_002" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.BusHireTest -->
+      <class name="tests.SearchBusOperator">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="endReport"/>
+          <include name="attachScreenshot"/>
+          <include name="openBrowser"/>
+          <include name="intializeWebdriver"/>
+          <include name="searchBusByOperator" invocation-numbers="0"/>
+          <include name="setExtent"/>
+        </methods>
+      </class> <!-- tests.SearchBusOperator -->
+      <class name="tests.LoginTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="endReport"/>
+          <include name="openBrowser"/>
+          <include name="attachScreenshot"/>
+          <include name="intializeWebdriver"/>
+          <include name="setExtent"/>
+          <include name="InvalidLogin_001" invocation-numbers="0"/>
+          <include name="ValidLogin_001" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.LoginTest -->
+      <class name="tests.ExploreSiteMapTest">
+        <methods>
+          <include name="closeBrowser"/>
+          <include name="endReport"/>
+          <include name="openBrowser"/>
+          <include name="attachScreenshot"/>
+          <include name="intializeWebdriver"/>
+          <include name="setExtent"/>
+          <include name="exploreSiteMap_001" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- tests.ExploreSiteMapTest -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
