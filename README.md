@@ -1,5 +1,10 @@
 # Assignment Automation Suite Information
 
+### My GitHub repository url
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+https://github.com/rishabhtiwari01/ExitTest.git
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 ### To run the Assignment Automation Suite from command line in the project folder
 
 ~~~~~~~~~~~~~~~~~~~~
